@@ -1,0 +1,2 @@
+C:/Users/Umer Tahir/AndroidStudioProjects/Shopping Catalog App/ecomm_flutter/android/app/.cxx/Debug/4f3r6r23/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/Umer Tahir/AndroidStudioProjects/Shopping Catalog App/ecomm_flutter/android/app/.cxx/Debug/4f3r6r23/arm64-v8a/CMakeFiles/rebuild_cache.dir
